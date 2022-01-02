@@ -1,0 +1,8 @@
+# CSC111 Winter 2021: Python libraries we'll be using for this project  
+  
+# Testing and code checking  
+pytest  
+python-ta  
+  
+# Graphics and visualization  
+pygame
