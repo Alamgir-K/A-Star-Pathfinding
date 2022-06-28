@@ -50,7 +50,7 @@ the program will end with every single searched square filled red.
     * To clear all paths, press ’C’.
     * To generate a new random maze, press ’R’
 * As long as all the modules in the requirements.txt file are installed, the file works perfectly in new projects on
-any new Windows or MacOS machines.
+any new Windows, MacOS, or Linux machine.
 
 Below I have included the visualization of the initial state and the final state of the pygame window.
 
